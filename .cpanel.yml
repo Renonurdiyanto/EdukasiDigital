@@ -1,0 +1,20 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1545300/public_html/
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R admin $DEPLOYPATH
+    
+    - /bin/cp -R Blog $DEPLOYPATH
+    - /bin/cp -R Artikel $DEPLOYPATH
+    - /bin/cp -R Portfolio $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp about-1.html $DEPLOYPATH
+    - /bin/cp blog-classic-grid.html $DEPLOYPATH
+    - /bin/cp error-404.html $DEPLOYPATH
+    - /bin/cp faq-1.html $DEPLOYPATH
+    - /bin/cp PortfolioRedi.html $DEPLOYPATH
+
+
