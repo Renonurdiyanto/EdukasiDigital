@@ -6,7 +6,7 @@ deployment:
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R admin $DEPLOYPATH
-    
+    - /bin/cp -R Aplikasi $DEPLOYPATH
     - /bin/cp -R Blog $DEPLOYPATH
     - /bin/cp -R Artikel $DEPLOYPATH
     - /bin/cp -R Portfolio $DEPLOYPATH
