@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarkerGunungApi" size="1.000000 1.499154" />
+    <ImageTarget name="MarkerPesawat" size="1.000000 1.499154" />
+    <ImageTarget name="MarkerParabola" size="1.000000 1.499154" />
+    <ImageTarget name="MarkerBasket" size="1.000000 1.472245" />
+  </Tracking>
+</QCARConfig>
